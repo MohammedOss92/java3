@@ -2,7 +2,7 @@ package string;
 
 public class countCharAt {
     public static void main(String[] args) {
-        String text="asdfghh";
+        String text="asgdfghh";
         char tar ='g';
         int count = 0;
 

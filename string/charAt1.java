@@ -20,8 +20,10 @@ public class charAt1 {
     System.out.println("First char: " + f);
         System.out.println("Last char: " + l);
 
-        for(int i =aa.length()-1;i >=0;i--){
-                    System.out.print(aa.charAt(i));
+        String s = "hello world java";
+
+        for(int i =s.length()-1;i >=0;i--){
+                    System.out.print(s.charAt(i));
 
     }
 
