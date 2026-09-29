@@ -1,6 +1,5 @@
 package string.strings;
 
-import string.charAt1;
 
 public class Reverseeveryword {
     public static void main(String[] args) {
@@ -13,8 +12,22 @@ public class Reverseeveryword {
     }
         System.out.print(" "  );
     }
+    
+
+
+
+
+    for (int i = a.length - 1; i >= 0; i--) {
+
+    String word = a[i];
+
+    for (int j = word.length() - 1; j >= 0; j--) {
+        System.out.print(word.charAt(j));
+    }
+
+    System.out.print(" ");
     }
 
     
     
-}
+}}
