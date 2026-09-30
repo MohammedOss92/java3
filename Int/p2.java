@@ -1,3 +1,4 @@
+package Int;
 import java.util.Scanner;
 
 public class p2 {
@@ -27,5 +28,7 @@ public class p2 {
             System.out.println("Palindrome");
         else
             System.out.println("Not Palindrome");
+
+        in.close();
     }
 }

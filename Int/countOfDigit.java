@@ -1,3 +1,4 @@
+package Int;
 public class countOfDigit {
     public static void main(String[] args) {
         int i=123;

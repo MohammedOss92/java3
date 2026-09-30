@@ -1,3 +1,4 @@
+package Int;
 public class Count_even_and_odd_digits {
     public static void main(String[] args) {
         int n=123456;

@@ -1,3 +1,4 @@
+package Int;
 public class StrongNum {
     public static void main(String[] args) {
 int n = 145;

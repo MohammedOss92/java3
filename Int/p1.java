@@ -1,3 +1,4 @@
+package Int;
 public class p1 {
     public static void main(String[] args) {
         int n=123;

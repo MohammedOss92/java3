@@ -1,3 +1,4 @@
+package Int;
 public class Product_of_digits {
     public static void main(String[] args) {
         int n=456;
